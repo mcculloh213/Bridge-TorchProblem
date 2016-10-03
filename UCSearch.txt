@@ -1,0 +1,9 @@
+SOLUTION FOUND AT DEPTH 5 IN A TIME OF 17 MINUTE(S)
+---------------------------------------------------------------------------------------------------
+|1: (False, False, False, False, False) --- START ~ [g(n) = 0, h(n) = 0, f(n) = 0])
+|2: (True, True, False, False, True) --- CROSS: A, B ~ [g(n) = 2, h(n) = 0, f(n) = 2])
+|3: (False, True, False, False, False) --- CROSS: A ~ [g(n) = 3, h(n) = 0, f(n) = 3])
+|4: (False, True, True, True, True) --- CROSS: C, D ~ [g(n) = 13, h(n) = 0, f(n) = 13])
+|5: (False, False, True, True, False) --- CROSS: B ~ [g(n) = 15, h(n) = 0, f(n) = 15])
+|6: (True, True, True, True, True) --- CROSS: A, B ~ [g(n) = 17, h(n) = 0, f(n) = 17])
+---------------------------------------------------------------------------------------------------
